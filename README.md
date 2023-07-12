@@ -26,11 +26,11 @@ To use The Inventory Manager, simply log in to the application and start managin
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute to The Inventory Manager, please follow these steps:
 
-Fork the repository
-Create a new branch
-Make your changes and commit them
-Push your changes to your fork
-Create a pull request
+1- Fork the repository
+2- Create a new branch
+3- Make your changes and commit them
+4- Push your changes to your fork
+5- Create a pull request
 
 ## License
 The Inventory Manager is licensed under the MIT License ↗. Feel free to use, modify, and distribute this project as you see fit.
