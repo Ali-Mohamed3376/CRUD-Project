@@ -1,1 +1,1 @@
-# CRUD-Project
+# The Inventory Manager
